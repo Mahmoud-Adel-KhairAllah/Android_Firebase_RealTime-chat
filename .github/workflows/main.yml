@@ -25,6 +25,7 @@ jobs:
         
         
       - name: GitHub Action for Android Lint
+        
         uses: yutailang0119/action-android-lint@v1.0.2
         with:
     # The file path of the XML lint report produced by gradle
